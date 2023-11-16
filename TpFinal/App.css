@@ -1,0 +1,13 @@
+.container {
+    flex: 1;
+    position: relative;
+    padding: 16;
+    align-items: center;
+    justify-content: center;
+  }
+.cardVideoContainer {
+    margin-bottom: 16;
+  }
+.soundPlayerContainer {
+    position: 'absolute'
+  }
